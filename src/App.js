@@ -62,7 +62,7 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      display: "fuck"
+      display: ""
     };
     this.displayClipName = this.displayClipName.bind(this);
   }
